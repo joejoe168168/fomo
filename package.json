@@ -1,0 +1,1 @@
+{"name":"fomo-terminal","version":"0.2.0","description":"Cross-chain memecoin research terminal","main":"main.js","scripts":{"start":"node start.mjs","app:start":"electron .","dist":"electron-builder"},"devDependencies":{"electron":"^44.3.0","electron-builder":"^26.15.3"},"build":{"appId":"com.fomo.terminal","productName":"Fomo Terminal","win":{"target":"nsis"}}}
